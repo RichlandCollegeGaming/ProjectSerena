@@ -8,5 +8,11 @@
 			"Name": "Water",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"HoloLens",
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
